@@ -50,7 +50,7 @@
     <string name="state_action_a_flash_install">Újraindítás a telepítéshez &#8230;</string>
     <string name="state_action_ab_flash">AB frissítés telepítése &#8230;</string>
     <string name="state_action_ab_paused">AB frissítés szüneteltetve</string>
-    <string name="state_action_ab_finished">Frissítés telepíte. Indítsa újra a készüléket.</string>
+    <string name="state_action_ab_finished">Frissítés telepítve. Indítsa újra a készüléket.</string>
     <string name="button_reboot_short">Újraindítás</string>
     <string name="state_action_flash_file_ready">A frissítés készen áll a telepítésre</string>
     <string name="state_action_flash_file_no_sum">Nem található helyi összegfájl</string>
